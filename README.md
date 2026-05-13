@@ -139,7 +139,7 @@ cloud-mail
 └── └── env.release				# 项目配置
 ```
 
-## 赞助开发者
+## 赞助
 
 <a href="https://doc.skymail.ink/support.html" >
 <img width="170px" src="./doc/images/support.png" alt="">
